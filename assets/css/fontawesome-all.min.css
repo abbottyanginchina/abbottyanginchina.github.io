@@ -2918,6 +2918,10 @@
     content: "\f16d"
 }
 
+.fa-google-scholar:before{
+    content: "\f1a0"
+}
+
 .fa-intercom:before {
     content: "\f7af"
 }
